@@ -1,7 +1,7 @@
 name: Samgayton
 favicon: null
-layout_spectrum: 0.1458685
-typography_spectrum: 0.05349
+layout_spectrum: 0
+typography_spectrum: 0.99043
 collections:
   - index:
       navigable: true
