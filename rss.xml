@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Samgayton]]></title>
-        <description><![CDATA[Samgayton]]></description>
+        <title><![CDATA[Sam Gayton, Children's Author]]></title>
+        <description><![CDATA[Sam Gayton, Children's Author]]></description>
         <link>https://thegrid.ai/samgayton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 12:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 12:36:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samgayton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Favourite First Lines]]></title>
+            <description><![CDATA[<article><h1>Favourite First Lines</h1><p>I don’t know about you, but I love the first lines of books. There’s something extra special about afirst line. I mean, you only getone first line per book. Even JK Rowling – with all her millions of fans and all her thousands of pages and all her hundreds of characters – evenshe has only goteight first lines.</p></article>]]></description>
+            <link>https://thegrid.ai/samgayton/favourite-first-lines/index.html</link>
+            <guid isPermaLink="false">62cfbda4-b276-4b5d-a7c6-785b0c584032</guid>
+            <pubDate>Sat, 26 Dec 2015 12:36:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb6bab5-fc00-47f0-b42e-4e1f8cc7c316.jpg">]]></description>
