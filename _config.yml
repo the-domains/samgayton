@@ -1,8 +1,20 @@
 layout_spectrum: 0.1458685
-typography_spectrum: 0.1003373
+name: Samgayton
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.801855
   lightness: 0.3752108
-  brandStrength: 0.6315346
   saturation: 0.5826307
   rhythmicContrast: 0.5876897
   brandColors:
@@ -11,4 +23,4 @@ color:
     - '#5C99D1'
     - '#9AC6EA'
     - '#909090'
-name: Samgayton
+typography_spectrum: 0.1003373
