@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Samgayton]]></title>
         <description><![CDATA[Samgayton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/samgayton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 12:30:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 12:31:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samgayton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb6bab5-fc00-47f0-b42e-4e1f8cc7c316.jpg">]]></description>
+            <link>https://thegrid.ai/samgayton/1e1be20b-12cc-4d46-badc-d9a7e955390a/index.html</link>
+            <guid isPermaLink="false">1e1be20b-12cc-4d46-badc-d9a7e955390a</guid>
+            <pubDate>Sat, 26 Dec 2015 12:30:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hundreds of years ago, being an author meant you sat in a stuffy little room called a garret with an ink pot and paper and a mug of ale or something, and you wrote. You wrote your books, and then after a few years you died of smallpox or something and you didn’t get famous and read by millions of people until hundreds of years afterwards.</p>]]></description>
-            <link>undefined4f7a51bf-ff2c-451a-adf7-43af8a9aa073/index.html</link>
+            <link>https://thegrid.ai/samgayton/4f7a51bf-ff2c-451a-adf7-43af8a9aa073/index.html</link>
             <guid isPermaLink="false">4f7a51bf-ff2c-451a-adf7-43af8a9aa073</guid>
             <pubDate>Sat, 26 Dec 2015 12:30:32 GMT</pubDate>
         </item>
