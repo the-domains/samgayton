@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Samgayton]]></title>
+        <description><![CDATA[Samgayton]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 12:30:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hundreds of years ago, being an author meant you sat in a stuffy little room called a garret with an ink pot and paper and a mug of ale or something, and you wrote. You wrote your books, and then after a few years you died of smallpox or something and you didn’t get famous and read by millions of people until hundreds of years afterwards.</p>]]></description>
+            <link>undefined4f7a51bf-ff2c-451a-adf7-43af8a9aa073/index.html</link>
+            <guid isPermaLink="false">4f7a51bf-ff2c-451a-adf7-43af8a9aa073</guid>
+            <pubDate>Sat, 26 Dec 2015 12:30:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
