@@ -1,7 +1,20 @@
-name: Samgayton
-favicon: null
+title: "Sam Gayton, Children's Author"
+cta:
+  version: null
+  bucket: null
+  domain: null
 layout_spectrum: 0.56664
-typography_spectrum: 0.4538
+favicon: null
+name: Samgayton
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -14,28 +27,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: "Sam Gayton, Children's Author"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
   brandColors:
     - '#1F1955'
     - '#FFFFFF'
     - '#5C99D1'
     - '#9AC6EA'
     - '#909090'
-  brandStrength: 0.625
-  lightness: 0.625
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.4538
